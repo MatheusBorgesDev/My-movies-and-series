@@ -44,7 +44,7 @@ header div:hover {
 }
 
 main {
-    max-width: 530px;
+    max-width: 655px;
     display: flex;
     margin: auto;
     flex-direction: column;
