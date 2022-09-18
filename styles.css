@@ -9,7 +9,7 @@ ul {
 }
 
 body {
-    background-image: url(./bg_alt.jpg);
+    background-image: url(./assets/bg_alt.jpg);
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
