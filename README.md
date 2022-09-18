@@ -1,6 +1,6 @@
 # Desafio NLW eSports | Trilha Explorer
 
-> Desafio realizado no evento Next Level Week da Rocketseat.
+> Desafio realizado no evento Next Level Week da Rocketseat. 
 
 ![preview](./.github/preview.png)
 
