@@ -1,17 +1,22 @@
-# Desafio NLW eSports | Trilha Explorer
+# My movies and series
 
-> Desafio realizado no evento Next Level Week da Rocketseat. 
+## A website to highlight the user's favorite movies and series
+
+> Project built during the Rocketseat educational institution's Next Level event.
+> 
+> The classes aimed to build the application's HTML and CSS from a Figma model.
 
 ![preview](./.github/preview.png)
 
-🔗 [Clique aqui para acessar](https://mbslash.github.io/Desafio-NLW---Trilha-Explorer/)
+🔗 [Click here to access](https://matheusborgesdev.github.io/My-movies-and-series/)
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 - HTML
 - CSS
-- Git e Github
+- Git & Github
+- Figma
 
-## 📧 Contato
+## 📧 Contact
 
 matheusb.dev@gmail.com
